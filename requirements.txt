@@ -1,10 +1,10 @@
 pip
 setuptools
-pandas==1.4.3
-numpy==1.21.4
-matplotlib==3.5.3
+pandas
+numpy
+matplotlib
 jupyter
-scikit-learn==1.1.2
+scikit-learn
 scikit-plot
 xgboost
 mlxtend
@@ -19,4 +19,9 @@ shap
 lime
 eli5
 optuna
+yellowbrick
+ydata_profiling
+patchworklib
+plotnine
+threadpoolctl==3.1.0
 #git+https://github.com/Kaggle/learntools.git
